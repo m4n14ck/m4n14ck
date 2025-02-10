@@ -1,7 +1,8 @@
 # 👻 M4N14CK 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=DC143C&background=1A1A1A)](https://git.io/typing-svg)
-
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=FF1493&)](https://git.io/typing-svg)
+</div>
 **`(Developer\jailbreak\problem-solver\Creator)`**
 
 About me: I am a Digital Craftsman Developer—a creative and skilled professional who thrives at the intersection of technology and artistry. I think outside the box, pushing boundaries to innovate and craft unique digital solutions. Freedom is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users. As a problem-solver, I tackle challenges with precision and creativity, delivering elegant and functional results that make a lasting impact.
