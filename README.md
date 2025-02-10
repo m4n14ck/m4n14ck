@@ -1,4 +1,4 @@
-# 👻 M4N14CK 👽
+# 👻 M4N14CK 👾
 
 **`(Developer\jailbreak\problem-solver\Creator)`**
 
