@@ -1,6 +1,6 @@
 # 👻 M4N14CK 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman)](https://git.io/typing-svg)
 
 **`(Developer\jailbreak\problem-solver\Creator)`**
 
