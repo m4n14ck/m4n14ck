@@ -5,10 +5,9 @@
 About me: I am a Digital Craftsman Developer—a creative and skilled professional who thrives at the intersection of technology and artistry. I think outside the box, pushing boundaries to innovate and craft unique digital solutions. Freedom is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users. As a problem-solver, I tackle challenges with precision and creativity, delivering elegant and functional results that make a lasting impact.
 
 
-## Mis habilidades
+## ⚙️ My Skills 📎
 
-<div align="center">
-  <div align="center">
+<div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
