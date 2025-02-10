@@ -1,11 +1,13 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy M4N14CK 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web con experiencia en:
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador con experiencia en:
 
 - **HTML** 🌐
 - **CSS** 🎨
 - **JavaScript** 🚀
-- **Frameworks como React y Vue** ⚛️
+- **Java**
+- **Python**
+- **C++**
 
 ## Mis habilidades
 
