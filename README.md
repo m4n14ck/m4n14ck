@@ -8,9 +8,9 @@
 
    `(Developer\jailbreak\problem-solver\Creator)`
    
-  <p>
-    <strong> About me: </strong> I am a Digital Craftsman Developer—a creative and skilled professional who thrives at the intersection of technology and artistry. I think outside the box, pushing boundaries to innovate and craft unique digital solutions. Freedom is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users. As a problem-solver, I tackle challenges with precision and creativity, delivering elegant and functional results that make a lasting impact.
-  </p>  
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/2E0249/FFFFFF?text=About+me%3A+I+am+a+Digital+Craftsman+Developer—a+creative+and+skilled+professional+who+thrives+at+the+intersection+of+technology+and+artistry.+I+think+outside+the+box%2C+pushing+boundaries+to+innovate+and+craft+unique+digital+solutions.+Freedom+is+at+the+core+of+my+work%2C+whether+it’s+breaking+through+technical+limitations+or+designing+systems+that+empower+users.+As+a+problem-solver%2C+I+tackle+challenges+with+precision+and+creativity%2C+delivering+elegant+and+functional+results+that+make+a+lasting+impact." alt="About me" />
+</div> 
 ________________________________________________________________________________________
 
 ## ⚙️ My Programming Skills 📎
