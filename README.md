@@ -38,9 +38,9 @@ Una aplicación de gestión de tareas construida con **React** y **Firebase**.
 
 ## Estadísticas de GitHub
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=radical" alt="Lenguajes más usados">
 </div>
 
 ---
