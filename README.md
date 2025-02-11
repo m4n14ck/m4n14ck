@@ -49,8 +49,6 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">  <br>
  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"> 
-  
-  
 </div>
 
 _____________________________________________________________________________________________________________________________________________________ 
