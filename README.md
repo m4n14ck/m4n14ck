@@ -3,11 +3,12 @@
 
 <br> <br>
 <div align="center">
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=FF1493)](https://git.io/typing-svg)
 </div> <br> <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
 `(Developer\jailbreak\problem-solver\Creator)`   
 
 **About Me:**  
@@ -15,9 +16,8 @@ I am a **Digital Craftsman Developer**—a creative and skilled professional who
 I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
 **Freedom** is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users.  
 As a problem-solver, I tackle challenges with **precision and creativity**, delivering **elegant and functional** results that make a lasting impact.  
-_____________________________________________________________________________________________________________________________________________________
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
 <h2> ⚙️ Programming Skills 📎</h2>
 
 <div>
