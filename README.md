@@ -28,19 +28,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________
 
-## Proyectos destacados
-
-### 1. [Portafolio Personal](https://tu-portafolio.com)
-Un sitio web moderno y responsive creado con **HTML**, **CSS** y **JavaScript**.  
-[![Ver proyecto](https://img.shields.io/badge/Ver-Portafolio-2ea44f?style=for-the-badge)](https://tu-portafolio.com)
-
-### 2. [Aplicación de Tareas](https://tu-app-tareas.com)
-Una aplicación de gestión de tareas construida con **React** y **Firebase**.  
-[![Ver proyecto](https://img.shields.io/badge/Ver-Aplicación-2ea44f?style=for-the-badge)](https://tu-app-tareas.com)
-
-_____________________________________________________________________________________________________________________________________________________
-
-## Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
