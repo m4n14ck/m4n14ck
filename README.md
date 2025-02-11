@@ -51,8 +51,3 @@ Una aplicación de gestión de tareas construida con **React** y **Firebase**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=radical" alt="Lenguajes más usados">
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="GIF animado" width="200">
-</div>
