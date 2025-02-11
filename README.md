@@ -36,7 +36,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
 <h2> 🖥️ Operating Systems Skills 🐧</h2>
 
 <div align="venter">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRnYnI3d253djdpeWNhejdrbnczczk5cjd4a3R3d3BwMXAyMTF3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhEiaGEZFWnMzRDFtA/giphy.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRnYnI3d253djdpeWNhejdrbnczczk5cjd4a3R3d3BwMXAyMTF3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhEiaGEZFWnMzRDFtA/giphy.gif" width="200">
 </div>
 
 <div>
