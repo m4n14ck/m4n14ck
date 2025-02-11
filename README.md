@@ -2,8 +2,8 @@
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=FF1493)](https://git.io/typing-svg)
-</div> 
-_____________________________________________________________________________________________________________________________________________________ 
+</div> _____________________________________________________________________________________________________________________________________________________ 
+
 <br> 
 
 
