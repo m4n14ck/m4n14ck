@@ -1,4 +1,4 @@
- 👻 M4N14CK 👾
+<h2> 👻 M4N14CK 👾 </h2>
 
 <div align="center">
   
@@ -17,7 +17,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
 _____________________________________________________________________________________________________________________________________________________
 
 
-⚙️ Programming Skills 📎
+<h2> ⚙️ Programming Skills 📎</h2>
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <br> 
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________
 
- 📊 GitHub Stats
+ <h2> 📊 GitHub Stats </h2>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub"> <br>
