@@ -18,7 +18,6 @@ I think outside the box, pushing boundaries to innovate and craft unique digital
 **Freedom** is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users.  
 As a problem-solver, I tackle challenges with **precision and creativity**, delivering **elegant and functional** results that make a lasting impact.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
 <h2> ⚙️ Programming Skills 📎</h2>
 
 <div>
@@ -28,6 +27,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
 _____________________________________________________________________________________________________________________________________________________
 
 <h2> 🖥️ Operating Systems Skills 🐧</h2>
