@@ -20,7 +20,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
 <br>
 <h2> ⚙️ Programming Skills 📎</h2>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd3czhhODdtb2FnN2NpNXo1a3Bsb2hvYzR1czlmZ3p4ZjR1cWxtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoxbjU0MWJrbXg3eDVydnEzdzNkOWgzaHJudXVncmp1ZzV4cnc2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="200" height="200">
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
