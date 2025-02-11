@@ -19,11 +19,10 @@ I am a **Digital Craftsman Developer**—a creative and skilled professional who
 I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
 **Freedom** is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users.  
 As a problem-solver, I tackle challenges with **precision and creativity**, delivering **elegant and functional** results that make a lasting impact.  
+_____________________________________________________________________________________________________________________________________________________
 
 
-
-
- <br> ⚙️ Programming Skills 📎
+⚙️ Programming Skills 📎
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
@@ -32,7 +31,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
-
+_____________________________________________________________________________________________________________________________________________________
 
 ## Proyectos destacados
 
@@ -43,7 +42,7 @@ Un sitio web moderno y responsive creado con **HTML**, **CSS** y **JavaScript**.
 ### 2. [Aplicación de Tareas](https://tu-app-tareas.com)
 Una aplicación de gestión de tareas construida con **React** y **Firebase**.  
 [![Ver proyecto](https://img.shields.io/badge/Ver-Aplicación-2ea44f?style=for-the-badge)](https://tu-app-tareas.com)
-
+_____________________________________________________________________________________________________________________________________________________
 ## Estadísticas de GitHub
 
 <div>
