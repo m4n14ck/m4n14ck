@@ -9,10 +9,20 @@
    
 `(Developer\jailbreak\problem-solver\Creator)`   
 
-<div style="background-color: #2E0249; padding: 20px; border-radius: 10px;">
- About Me: 
-  I am a Digital Craftsman Developer—a creative and skilled professional who thrives at the intersection of technology and artistry. I think outside the box, pushing boundaries to innovate and craft unique digital solutions. Freedom is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users. As a problem-solver, I tackle challenges with precision and creativity, delivering elegant and functional results that make a lasting impact.
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/2E0249/FFFFFF?text=Digital+Craftsman+Developer" alt="Digital Craftsman Developer Banner">
 </div>
+
+## 🎨 About Me  
+
+🚀 **I am a Digital Craftsman Developer** — a creative and skilled professional who thrives at the intersection of technology and artistry.  
+
+💡 I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
+
+🛠 **Freedom is at the core of my work** — whether it’s breaking through technical limitations or designing systems that empower users.  
+
+🎯 As a problem-solver, I tackle challenges with precision and creativity, delivering **elegant and functional results** that make a lasting impact.  
+
 
 
 
