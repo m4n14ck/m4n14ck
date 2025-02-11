@@ -31,9 +31,13 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
 </div> <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
+
 
 <h2> 🖥️ Operating Systems Skills 🐧</h2>
+
+<div align="venter">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRnYnI3d253djdpeWNhejdrbnczczk5cjd4a3R3d3BwMXAyMTF3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhEiaGEZFWnMzRDFtA/giphy.gif">
+</div>
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">   
