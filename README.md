@@ -23,7 +23,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF2M3IyN2VzaGxlc3NmbTVlMXF0Z28zMHlpOXB3czNuamxhZHFvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKu093dtbnXVPHWyBP/giphy.gif" width="400" >
 </div>
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
