@@ -3,17 +3,10 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=FF1493)](https://git.io/typing-svg)
-
 </div>
 
-   
+_____________________________________________________________________________________________________________________________________________________   
 `(Developer\jailbreak\problem-solver\Creator)`   
-
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BqZmgxODZoeW9reTI1bmZrZnJwY21kcTBlcWFpNHdzY3NwMWs1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="Digital Craftsman Developer" width="800">
-</div>
-
 **About Me:**  
 I am a **Digital Craftsman Developer**—a creative and skilled professional who thrives at the intersection of technology and artistry.  
 I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
