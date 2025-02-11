@@ -1,5 +1,7 @@
- <h2> 👻 M4N14CK 👾 </h2> 
- 🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪 
+ <h2> 👻 M4N14CK 👾 </h2>
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
+  
  
 <br> <br>
 <div align="center">
