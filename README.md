@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/413e6bcc-4780-491d-8e20-7f1c27f7be0d)" alt="Digital Craftsman Developer" width="800">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BqZmgxODZoeW9reTI1bmZrZnJwY21kcTBlcWFpNHdzY3NwMWs1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="Digital Craftsman Developer" width="800">
 </div>
 
 **About Me:**  
@@ -31,6 +31,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
+
 _____________________________________________________________________________________________________________________________________________________
 
 ## Proyectos destacados
@@ -42,7 +43,9 @@ Un sitio web moderno y responsive creado con **HTML**, **CSS** y **JavaScript**.
 ### 2. [Aplicación de Tareas](https://tu-app-tareas.com)
 Una aplicación de gestión de tareas construida con **React** y **Firebase**.  
 [![Ver proyecto](https://img.shields.io/badge/Ver-Aplicación-2ea44f?style=for-the-badge)](https://tu-app-tareas.com)
+
 _____________________________________________________________________________________________________________________________________________________
+
 ## Estadísticas de GitHub
 
 <div>
