@@ -1,5 +1,5 @@
 <div align="center">
- <h2> 👻 M4N14CK 👾 </h2> <br> 
+ <h2> 👻 M4N14CK 👾 </h2>
 <h3> std::cout << " ╠═══ DeadOps ══╣" << std::endl; </h3> 
 </div>
 
