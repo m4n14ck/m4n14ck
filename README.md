@@ -1,4 +1,4 @@
-# 👻 M4N14CK 👾
+ 👻 M4N14CK 👾
 
 <div align="center">
   
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub"> <br>
