@@ -8,10 +8,10 @@
 </div> <br> <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
-
 `(Developer\jailbreak\problem-solver\Creator)`   
-**About Me:**  
+
+**About Me:**
+
 I am a **Digital Craftsman Developer**—a creative and skilled professional who thrives at the intersection of technology and artistry.  
 I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
 **Freedom** is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users.  
