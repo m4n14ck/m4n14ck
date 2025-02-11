@@ -39,7 +39,7 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF2M3IyN2VzaGxlc3NmbTVlMXF0Z28zMHlpOXB3czNuamxhZHFvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKu093dtbnXVPHWyBP/giphy.gif" width="200" >
 </div>
 
-<div>
+<div align="center">
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">   
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">  
  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> 
