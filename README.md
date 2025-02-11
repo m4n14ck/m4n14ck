@@ -32,7 +32,7 @@ ________________________________________________________________________________
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=radical" alt="Estadísticas de GitHub"> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=radical" alt="Lenguajes más usados">
 </div>
 
