@@ -11,7 +11,8 @@
 
 
 <div align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Digital Craftsman Developer" width="800">
+  <img src="![image](https://github.com/user-attachments/assets/413e6bcc-4780-491d-8e20-7f1c27f7be0d)
+" alt="Digital Craftsman Developer" width="800">
 </div>
 
 **About Me:**  
