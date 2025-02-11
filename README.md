@@ -28,7 +28,6 @@ As a problem-solver, I tackle challenges with **precision and creativity**, deli
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪&color=FF1493)](https://git.io/typing-svg)
-_____________________________________________________________________________________________________________________________________________________
 
 <h2> 🖥️ Operating Systems Skills 🐧</h2>
 
