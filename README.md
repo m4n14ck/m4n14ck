@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/rust-banner.png" width="100%">
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=CE422B&text=LOW%20LEVEL%20%E2%80%A2%20RUST%20%E2%80%A2%20SYSTEMS&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
