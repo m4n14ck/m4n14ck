@@ -2,268 +2,245 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=050505&text=%E2%9A%94%20m4n14ck%20%7C%20RUST%20SYSTEMS%20FORGE&fontColor=DEA584&fontSize=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,100:00ff41&text=%E2%9A%A1%20m4n14ck%20%7C%20ROOT%20ACCESS%20GRANTED&fontColor=00ff41&fontSize=36&animation=twinkling&stroke=00ff41&strokeWidth=2"/>
 
 <br>
 
 ```
-╔══════════════════════════════════════╗
-║          SYSTEM INITIALIZED          ║
-╠══════════════════════════════════════╣
-║ USER     : m4n14ck                   ║
-║ CORE     : Rust                      ║
-║ DOMAIN   : Systems Engineering       ║
-║ STATUS   : ONLINE                    ║
-╚══════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║  [INIT] SYSTEM BREACH DETECTED                           ║
+║  [AUTH] ROOT PRIVILEGES: GRANTED                        ║
+╠═══════════════════════════════════════════════════════════╣
+║  >> USER    : m4n14ck                                   ║
+║  >> CORE    : Rust [memory_safe::enabled]               ║
+║  >> DOMAIN  : Systems Engineering / Offensive Dev       ║
+║  >> STATUS  : ████████░░ ONLINE                         ║
+║  >> UPTIME  : 00:00:00:00:00:00                         ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
 # 🦀 m4n14ck
 
-### `Systems Engineer` • `Rust Developer` • `Security Research`
+### `root@systems:~#` • `Systems Engineer` • `Rust Developer` • `Security Research`
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=DEA584&center=true&vCenter=true&width=900&lines=cargo+build+--release;Engineering+low-level+software;Rust+systems+development;Memory+safe+performance;Linux+%26+Windows+internals;Network+engineering;Open+source+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=00FF41&center=true&vCenter=true&width=1000&lines=sudo+cargo+build+--release;Compiling+zero-cost+abstractions...;Memory+safety+without+GC;Fearless+concurrency+engaged;Reverse+engineering+active;Root+access+granted;Systems+level+programming)](https://git.io/typing-svg)
 
 </div>
 
+<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [00:00:01] KERNEL PANIC AVOIDED — RUST COMPILER ONLINE    │
+└─────────────────────────────────────────────────────────────┘
+```
 
+---
 
-# `01 // IDENTITY`
+# `> 01 // IDENTITY`
 
 ```bash
-┌──(m4n14ck@rustbox)-[~]
-└─$ system_info
+┌──(root@m4n14ck)-[/dev/rust]
+└─# whoami && cat /etc/passwd | grep m4n14ck
 
 
 NAME        : m4n14ck
-
 ROLE        : Systems Engineer
-
 PRIMARY     : Rust 🦀
-
+CLEARANCE   : ROOT
 
 ENVIRONMENT :
-
- ├── Linux
- ├── Windows
- └── Embedded Systems
-
-
+ ├── Linux    [██████░░░░] 60%
+ ├── Windows  [████░░░░░░] 40%
+ └── Embedded [██░░░░░░░░] 20%
 
 CORE SKILLS :
-
- ├── Low Level Programming
- ├── Memory Safety
- ├── Networking
- ├── CLI/TUI Engineering
- ├── Reverse Engineering
- ├── Performance Optimization
- └── Open Source
+ ├── Low Level Programming    [██████████] 100%
+ ├── Memory Safety            [██████████] 100%
+ ├── Networking               [████████░░]  80%
+ ├── CLI/TUI Engineering      [████████░░]  80%
+ ├── Reverse Engineering      [███████░░░]  70%
+ ├── Performance Optimization [████████░░]  80%
+ └── Open Source              [██████████] 100%
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `02 // DESIGN PHILOSOPHY`
+# `> 02 // DESIGN PHILOSOPHY`
 
 ```text
-╭────────────────────────────╮
-│                            │
-│  SAFE BY DESIGN            │
-│  FAST BY DEFAULT           │
-│  FEARLESS BY CHOICE        │
-│                            │
-╰────────────────────────────╯
+╭────────────────────────────────────────╮
+│                                        │
+│  >> ZERO-COST ABSTRACTIONS             │
+│  >> OWNERSHIP WITHOUT GC               │
+│  >> FEARLESS CONCURRENCY               │
+│  >> UNSAFE BLOCKS: AUTHORIZED          │
+│                                        │
+╰────────────────────────────────────────╯
 
-
-Building reliable software
-closer to the hardware.
+[LOG] Building reliable software closer to the metal.
+[LOG] No segfaults. No data races. No compromises.
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `03 // ACTIVE OPERATIONS`
+# `> 03 // ACTIVE OPERATIONS`
 
 ```text
-╔══════════════════════════════════╗
-║        DEVELOPMENT CORE          ║
-╚══════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║           DEVELOPMENT CORE — DAEMON STATUS           ║
+╚══════════════════════════════════════════════════════╝
 
+[RUNNING]  rust-ecosystem.service        ● active
+[RUNNING]  systems-programming.service   ● active
+[RUNNING]  network-engineering.service   ● active
+[RUNNING]  linux-internals.service       ● active
+[RUNNING]  windows-api.service           ● active
+[RUNNING]  cli-applications.service      ● active
+[RUNNING]  performance-eng.service       ● active
 
-[ONLINE] Rust Ecosystem
-
-[ONLINE] Systems Programming
-
-[ONLINE] Network Engineering
-
-[ONLINE] Linux Internals
-
-[ONLINE] Windows API
-
-[ONLINE] CLI Applications
-
-[ONLINE] Performance Engineering
-
-
-
-SYSTEM LOAD:
-
-████████████████░░░░ 80%
+SYSTEM LOAD: [████████████████████░░░░░░] 80%
+MEMORY USAGE: [████████████░░░░░░░░░░░░] 48%
+CPU: [████████████████████████░░] 85°C
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `04 // TECHNOLOGY MATRIX`
+# `> 04 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,git,linux,debian,ubuntu,windows,vscode"/>
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,git,linux,debian,ubuntu,windows,vscode&theme=dark"/>
 
 </div>
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `05 // RUST CORE`
+# `> 05 // RUST CORE — DEPENDENCIES`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=0d1117">
 
-<img src="https://img.shields.io/badge/Cargo-CE422B?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=DEA584&labelColor=0d1117">
 
-<img src="https://img.shields.io/badge/Tokio-050505?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=00FF41&labelColor=0d1117">
 
-<img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge">
+<img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=serde&logoColor=DEA584&labelColor=0d1117">
 
-<img src="https://img.shields.io/badge/Axum-050505?style=for-the-badge">
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=axum&logoColor=00FF41&labelColor=0d1117">
 
-<img src="https://img.shields.io/badge/Clippy-CE422B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clippy-000000?style=for-the-badge&logo=rust&logoColor=CE422B&labelColor=0d1117">
 
 </div>
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `06 // SECURITY MODULE`
+# `> 06 // SECURITY MODULE — PENTEST SUITE`
 
 ```text
-╔══════════════════════════════╗
-║       SECURITY RESEARCH      ║
-╚══════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║              SECURITY RESEARCH TOOLKIT               ║
+╚══════════════════════════════════════════════════════╝
 
+[✓] Reverse Engineering        [✓] Binary Analysis
+[✓] Network Security           [✓] Secure Software Design
+[✓] Windows Internals          [✓] Linux Internals
+[✓] Defensive Engineering      [✓] Fuzzing & Exploitation
 
-[+] Reverse Engineering
-
-[+] Binary Analysis
-
-[+] Network Security
-
-[+] Secure Software Design
-
-[+] Windows Internals
-
-[+] Linux Internals
-
-[+] Defensive Engineering
+[WARNING] No vulnerabilities found in Rust code.
+[INFO]    Memory safety: ENFORCED at compile time.
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `07 // PROJECT ARCHITECTURE`
+# `> 07 // PROJECT ARCHITECTURE`
 
 ```text
+root@m4n14ck:~/projects# tree -L 2
+
 ~/projects
-
-
-├── rust-tools
-│   └── System utilities
-
-
-├── network-engine
-│   └── Protocol experiments
-
-
-├── cli-framework
-│   └── Terminal applications
-
-
-├── security-labs
-│   └── Research environment
-
-
-└── open-source
-    └── Public contributions
+├── rust-tools/
+│   └── [System utilities — CLI tooling]
+│
+├── network-engine/
+│   └── [Protocol experiments — Packet crafting]
+│
+├── cli-framework/
+│   └── [Terminal applications — TUI frameworks]
+│
+├── security-labs/
+│   └── [Research environment — CTF / RE]
+│
+└── open-source/
+    └── [Public contributions — CVE patches]
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `08 // BUILD PIPELINE`
+# `> 08 // BUILD PIPELINE`
 
 ```mermaid
 graph LR
 
-Research --> Architecture
+    A[Research] -->|analyze| B[Architecture]
+    B -->|design| C[Rust]
+    C -->|cargo build| D[Compile]
+    D -->|clippy| E[Testing]
+    E -->|cargo test| F[Benchmark]
+    F -->|criterion| G[Release]
 
-Architecture --> Rust
-
-Rust --> Cargo
-
-Cargo --> Compile
-
-Compile --> Testing
-
-Testing --> Benchmark
-
-Benchmark --> Release
+    style A fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
+    style B fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
+    style C fill:#0d1117,stroke:#DEA584,stroke-width:2px,color:#DEA584
+    style D fill:#0d1117,stroke:#DEA584,stroke-width:2px,color:#DEA584
+    style E fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
+    style F fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
+    style G fill:#0d1117,stroke:#00FF41,stroke-width:3px,color:#00FF41
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `09 // SYSTEM METRICS`
+# `> 09 // SYSTEM METRICS`
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=merko&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=CE422B&currStreakNum=00FF41&sideNums=DEA584&currStreakLabel=00FF41&sideLabels=DEA584&dates=555555"/>
 
 </div>
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+---
 
 <div align="center">
 
-```text
-cargo build --release
+```
+root@m4n14ck:~# cargo build --release
+   Compiling m4n14ck v1.0.0
+    Finished `release` profile [optimized] target(s) in 0.42s
 
+BUILD STATUS: [████████████████████] SUCCESS
 
-BUILD STATUS:
-
-████████████████████ SUCCESS
-
+[OK] 0 warnings
+[OK] 0 errors
+[OK] 0 unsafe blocks (or properly audited)
 
 SYSTEM READY 🦀
 ```
 
-### `Safe by design. Fast by default.`
+<br>
+
+### `Safe by design. Fast by default. Fearless by choice.`
+
+<br>
+
+```
+[root@m4n14ck ~]# exit
+logout
+Connection to github.com closed.
+```
 
 </div>
