@@ -9,59 +9,98 @@
                                                                                                                   
 ```
                                                                                                                     
-
-<br>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hack+the+system,+break+the+rules;Code+your+dreams,+rewrite+the+tools;Freedom+is+the+ultimate+exploit;Innovation+is+your+payload;Think+beyond+the+limits;Build+what+others+can't+imagine;You+are+the+Digital+Craftsman&color=FF1493)](https://git.io/typing-svg)
-</div> 
-_________________________________________________________________________________________________________________________________________________
+# 🦀 RUST TO SURVIVE
 
-<br> <br>
+> *Safe by design. Fast by default. Fearless by choice.*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=D97706&center=true&vCenter=true&width=1000&lines=Systems+Programming+with+Rust;Building+High-Performance+Security+Tools;Memory+Safety+Without+Garbage+Collection;Reverse+Engineering+%7C+Windows+Internals;Low-Level+Development+%7C+Networking;Code.+Compile.+Survive.)](https://git.io/typing-svg)
 
-`(Developer\jailbreak\problem-solver\Creator)`   
-
-**About Me:** <br>
-  I am a **Digital Craftsman Developer**—a creative and skilled professional who thrives at the intersection of technology and artistry.  
-I think outside the box, pushing boundaries to innovate and craft unique digital solutions.  
-**Freedom** is at the core of my work, whether it’s breaking through technical limitations or designing systems that empower users.  
-As a problem-solver, I tackle challenges with **precision and creativity**, delivering **elegant and functional** results that make a lasting impact.  
-
-<br>
-<h2> ⚙️ Programming Skills 📎</h2>
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRnYnI3d253djdpeWNhejdrbnczczk5cjd4a3R3d3BwMXAyMTF3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhEiaGEZFWnMzRDFtA/giphy.gif" width="200">
-</div> <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
-</div> <br>
-
-
-
-<h2> 🖥️ Operating Systems Skills 🐧</h2>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF2M3IyN2VzaGxlc3NmbTVlMXF0Z28zMHlpOXB3czNuamxhZHFvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HKu093dtbnXVPHWyBP/giphy.gif" width="200" >
-</div> <br>
-
-<div align="center">
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">   
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">  
- <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> 
- <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS">  
- <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11">
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">  <br> 
- <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
- <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">  <br>
- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"> 
 </div>
 
+---
+
+```rust
+fn main() {
+    println!("Rust to Survive");
+}
+```
+
+```text
+[ Rust Developer ]
+[ Systems Programmer ]
+[ Security Research ]
+[ Open Source Contributor ]
+```
+
+## 🦀 About Me
+
+I build software where **performance**, **reliability**, and **memory safety** matter.
+
+My primary language is **Rust**, focusing on systems programming, networking, developer tooling, and cybersecurity-related projects. I enjoy exploring low-level concepts, writing efficient code, and designing software that is clean, maintainable, and performant.
+
+### Current Focus
+
+- 🦀 Rust
+- ⚙️ Systems Programming
+- 🌐 Networking
+- 🪟 Windows Internals
+- 🔬 Reverse Engineering
+- 🛠 CLI / TUI Applications
+- 📦 Open Source
+- 🚀 Performance Optimization
+
+---
+
+# ⚙ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,python,bash,git,github,linux,debian,ubuntu,vscode"/>
+
+</div>
+
+---
+
+# 🦀 Rust Ecosystem
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Clippy-D97706?style=for-the-badge">
+<img src="https://img.shields.io/badge/rustfmt-CE422B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Axum-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
+<img src="https://img.shields.io/badge/Serde-D97706?style=for-the-badge">
+
+</div>
+
+---
+
+# 💻 Operating Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows"/>
+
+</div>
+
+---
+
+# 🚀 Interests
+
+```text
+Systems Programming
+Windows API
+Networking
+CLI Development
+Performance Engineering
+Reverse Engineering
+Open Source
+Rust Ecosystem
+```
 _____________________________________________________________________________________________________________________________________________________ 
 
 <br>
