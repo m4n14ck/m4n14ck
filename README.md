@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0D1117&text=%3E_%20m4n14ck%20%7C%20RUST%20SYSTEMS%20ENGINEER&fontColor=DEA584&fontSize=34&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=000000&text=%3E_%20m4n14ck%3A~%24%20cargo%20build%20--release&fontColor=DEA584&fontSize=34&animation=twinkling"/>
 
 <br>
 
