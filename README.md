@@ -4,16 +4,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=050505&text=%E2%9A%94%20m4n14ck%20%7C%20RUST%20SYSTEMS%20FORGE&fontColor=DEA584&fontSize=38&animation=fadeIn"/>
 
+<br>
+
+```
+╔══════════════════════════════════════╗
+║          SYSTEM INITIALIZED          ║
+╠══════════════════════════════════════╣
+║ USER     : m4n14ck                   ║
+║ CORE     : Rust                      ║
+║ DOMAIN   : Systems Engineering       ║
+║ STATUS   : ONLINE                    ║
+╚══════════════════════════════════════╝
+```
 
 <br>
 
 # 🦀 m4n14ck
 
-### `Systems Programmer` • `Rust Engineer` • `Security Research`
+### `Systems Engineer` • `Rust Developer` • `Security Research`
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=DEA584&center=true&vCenter=true&width=900&lines=cargo+build+--release;Building+low-level+software;Rust+systems+programming;Memory+safe+performance;Linux+%26+Windows+internals;Networking+engineering;Open+source+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=DEA584&center=true&vCenter=true&width=900&lines=cargo+build+--release;Engineering+low-level+software;Rust+systems+development;Memory+safe+performance;Linux+%26+Windows+internals;Network+engineering;Open+source+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,29 +33,34 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-## ┌─[ SYSTEM PROFILE ]
+# `01 // IDENTITY`
 
 ```bash
 ┌──(m4n14ck@rustbox)-[~]
-└─$ whoami
+└─$ system_info
 
 
-USER        : m4n14ck
-ROLE        : Systems Programmer
+NAME        : m4n14ck
+
+ROLE        : Systems Engineer
 
 PRIMARY     : Rust 🦀
 
-PLATFORMS   :
+
+ENVIRONMENT :
+
  ├── Linux
- └── Windows
+ ├── Windows
+ └── Embedded Systems
 
 
-SPECIALITY  :
+
+CORE SKILLS :
 
  ├── Low Level Programming
  ├── Memory Safety
  ├── Networking
- ├── CLI/TUI Development
+ ├── CLI/TUI Engineering
  ├── Reverse Engineering
  ├── Performance Optimization
  └── Open Source
@@ -53,47 +70,51 @@ SPECIALITY  :
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# ⚙️ SYSTEM PHILOSOPHY
+# `02 // DESIGN PHILOSOPHY`
 
 ```text
-> Safe by design.
-> Fast by default.
-> Fearless by choice.
+╭────────────────────────────╮
+│                            │
+│  SAFE BY DESIGN            │
+│  FAST BY DEFAULT           │
+│  FEARLESS BY CHOICE        │
+│                            │
+╰────────────────────────────╯
 
 
-Writing software close to the machine
-without sacrificing reliability.
+Building reliable software
+closer to the hardware.
 ```
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🖥 CURRENT OPERATIONS
-
+# `03 // ACTIVE OPERATIONS`
 
 ```text
 ╔══════════════════════════════════╗
-║        ACTIVE DEVELOPMENT        ║
+║        DEVELOPMENT CORE          ║
 ╚══════════════════════════════════╝
 
 
-[✓] Rust Ecosystem
+[ONLINE] Rust Ecosystem
 
-[✓] Systems Programming
+[ONLINE] Systems Programming
 
-[✓] Network Engineering
+[ONLINE] Network Engineering
 
-[✓] Linux Internals
+[ONLINE] Linux Internals
 
-[✓] Windows API
+[ONLINE] Windows API
 
-[✓] CLI Applications
+[ONLINE] CLI Applications
 
-[✓] Performance Engineering
+[ONLINE] Performance Engineering
 
 
-SYSTEM STATUS:
+
+SYSTEM LOAD:
 
 ████████████████░░░░ 80%
 ```
@@ -102,8 +123,7 @@ SYSTEM STATUS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🧰 TECH STACK
-
+# `04 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
@@ -115,8 +135,7 @@ SYSTEM STATUS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🦀 RUST ENVIRONMENT
-
+# `05 // RUST CORE`
 
 <div align="center">
 
@@ -124,14 +143,13 @@ SYSTEM STATUS:
 
 <img src="https://img.shields.io/badge/Cargo-CE422B?style=for-the-badge&logo=rust&logoColor=white">
 
-<img src="https://img.shields.io/badge/Tokio-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tokio-050505?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Axum-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Axum-050505?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Clippy-CE422B?style=for-the-badge">
-
 
 </div>
 
@@ -139,13 +157,12 @@ SYSTEM STATUS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🔐 SECURITY INTERESTS
-
+# `06 // SECURITY MODULE`
 
 ```text
-┌─────────────────────────────┐
-│ SECURITY MODULE             │
-└─────────────────────────────┘
+╔══════════════════════════════╗
+║       SECURITY RESEARCH      ║
+╚══════════════════════════════╝
 
 
 [+] Reverse Engineering
@@ -154,73 +171,74 @@ SYSTEM STATUS:
 
 [+] Network Security
 
-[+] Secure Software
+[+] Secure Software Design
 
 [+] Windows Internals
 
 [+] Linux Internals
 
-[+] Defensive Programming
+[+] Defensive Engineering
 ```
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🚀 PROJECTS
-
+# `07 // PROJECT ARCHITECTURE`
 
 ```text
-/projects
+~/projects
 
 
 ├── rust-tools
-│   └── Systems utilities
+│   └── System utilities
 
-├── network-labs
-│   └── Networking research
 
-├── cli-frameworks
+├── network-engine
+│   └── Protocol experiments
+
+
+├── cli-framework
 │   └── Terminal applications
 
+
 ├── security-labs
-│   └── Security research
+│   └── Research environment
+
 
 └── open-source
-    └── Community projects
+    └── Public contributions
 ```
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 🔄 DEVELOPMENT PIPELINE
-
+# `08 // BUILD PIPELINE`
 
 ```mermaid
 graph LR
 
-Research --> Design
+Research --> Architecture
 
-Design --> Rust
+Architecture --> Rust
 
 Rust --> Cargo
 
-Cargo --> Build
+Cargo --> Compile
 
-Build --> Test
+Compile --> Testing
 
-Test --> Optimize
+Testing --> Benchmark
 
-Optimize --> Release
+Benchmark --> Release
 ```
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# 📊 GITHUB ACTIVITY
-
+# `09 // SYSTEM METRICS`
 
 <div align="center">
 
@@ -234,15 +252,18 @@ Optimize --> Release
 
 <div align="center">
 
-```
+```text
 cargo build --release
 
-STATUS: SUCCESS
 
+BUILD STATUS:
+
+████████████████████ SUCCESS
+
+
+SYSTEM READY 🦀
 ```
 
-### "Safe by design. Fast by default."
-
-🦀
+### `Safe by design. Fast by default.`
 
 </div>
