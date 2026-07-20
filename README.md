@@ -1,74 +1,82 @@
 <div align="center">
 
-<img src="./assets/rust-terminal-banner.png" width="100%">
+<img src="./assets/rust-banner.png" width="100%">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=CE422B&text=RUST%20%7C%20SYSTEMS%20%7C%20SECURITY&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=CE422B&text=LOW%20LEVEL%20%E2%80%A2%20RUST%20%E2%80%A2%20SYSTEMS&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+
+<br>
 
 # 🦀 m4n14ck
 
-### Systems Programmer • Rust Engineer • Security Research
+### `Systems Programmer` • `Rust Engineer` • `Security Research`
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2500&color=DEA584&center=true&vCenter=true&width=900&lines=Building+Low-Level+Software;Systems+Programming+with+Rust;Memory+Safety+%26+Performance;Linux+%26+Windows+Internals;Networking+Engineering;Open+Source+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2000&color=DEA584&center=true&vCenter=true&width=900&lines=cargo+build+--release;Building+low-level+software;Rust+systems+programming;Memory+safe+performance;Linux+%26+Windows+internals;Networking+engineering;Open+source+development)](https://git.io/typing-svg)
 
 </div>
 
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# `$ whoami`
+
+## ┌─[ SYSTEM PROFILE ]
 
 ```bash
 ┌──(m4n14ck@rustbox)-[~]
 └─$ whoami
 
 
-Developer   : m4n14ck
-Role        : Systems Programmer
+USER        : m4n14ck
+ROLE        : Systems Programmer
 
-Primary     : Rust
+PRIMARY     : Rust 🦀
 
-Platforms   :
+PLATFORMS   :
  ├── Linux
  └── Windows
 
 
-Focus Areas :
+SPECIALITY  :
 
+ ├── Low Level Programming
  ├── Memory Safety
- ├── Systems Programming
  ├── Networking
- ├── CLI/TUI Applications
+ ├── CLI/TUI Development
  ├── Reverse Engineering
- ├── Performance Engineering
+ ├── Performance Optimization
  └── Open Source
 ```
 
----
 
-# Philosophy
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```
+
+# ⚙️ SYSTEM PHILOSOPHY
+
+```text
 > Safe by design.
 > Fast by default.
 > Fearless by choice.
 
 
-Building reliable software
-close to the metal.
+Writing software close to the machine
+without sacrificing reliability.
 ```
 
----
 
-# Current Operations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# 🖥 CURRENT OPERATIONS
+
 
 ```text
-╔══════════════════════════════════════╗
-║          SYSTEM OPERATIONS            ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════╗
+║        ACTIVE DEVELOPMENT        ║
+╚══════════════════════════════════╝
 
 
 [✓] Rust Ecosystem
@@ -81,21 +89,22 @@ close to the metal.
 
 [✓] Windows API
 
-[✓] CLI Development
+[✓] CLI Applications
 
-[✓] Performance Optimization
-
-[✓] Open Source
+[✓] Performance Engineering
 
 
-Progress:
+SYSTEM STATUS:
 
 ████████████████░░░░ 80%
 ```
 
----
 
-# Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# 🧰 TECH STACK
+
 
 <div align="center">
 
@@ -104,12 +113,13 @@ Progress:
 </div>
 
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Rust Ecosystem
+
+# 🦀 RUST ENVIRONMENT
+
 
 <div align="center">
-
 
 <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black">
 
@@ -117,154 +127,123 @@ Progress:
 
 <img src="https://img.shields.io/badge/Tokio-111111?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge&logo=rust&logoColor=black">
+<img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Axum-111111?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Clippy-CE422B?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/rustfmt-DEA584?style=for-the-badge&logo=rust&logoColor=black">
-
 
 </div>
 
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Areas Of Interest
+
+# 🔐 SECURITY INTERESTS
+
 
 ```text
-╔══════════════════════════════════════╗
-║        SYSTEMS ENGINEERING           ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────┐
+│ SECURITY MODULE             │
+└─────────────────────────────┘
 
-
-■■■■■■■■■■■■■■■■■■■■
-
-Memory Management
-
-Concurrency
-
-Networking
-
-Operating Systems
-
-Reverse Engineering
-
-Windows Internals
-
-Compiler Technology
-
-CLI/TUI Development
-
-Performance Optimization
-
-Open Source
-```
-
----
-
-# Development Workflow
-
-```mermaid
-graph LR
-
-Research --> Architecture
-
-Architecture --> Rust
-
-Rust --> Cargo
-
-Cargo --> Testing
-
-Testing --> Benchmarking
-
-Benchmarking --> Optimization
-
-Optimization --> Release
-
-Release --> OpenSource
-```
-
----
-
-# Projects
-
-<div align="center">
-
-
-| Project | Description |
-|---|---|
-| 🦀 Rust Projects | Systems programming experiments |
-| ⚡ Nmap Academy | Interactive network learning platform |
-| 🔧 CLI Tools | Terminal based utilities |
-| 🌐 Networking | Protocol and scanning research |
-| 🖥 Low Level | OS and performance experiments |
-
-
-</div>
-
-
----
-
-# Security Interests
-
-```text
-SECURITY RESEARCH
-
-
-[+] Network Security
 
 [+] Reverse Engineering
 
 [+] Binary Analysis
+
+[+] Network Security
+
+[+] Secure Software
 
 [+] Windows Internals
 
 [+] Linux Internals
 
 [+] Defensive Programming
-
-[+] Secure Software Design
 ```
 
----
 
-# GitHub Activity
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# 🚀 PROJECTS
+
+
+```text
+/projects
+
+
+├── rust-tools
+│   └── Systems utilities
+
+├── network-labs
+│   └── Networking research
+
+├── cli-frameworks
+│   └── Terminal applications
+
+├── security-labs
+│   └── Security research
+
+└── open-source
+    └── Community projects
+```
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# 🔄 DEVELOPMENT PIPELINE
+
+
+```mermaid
+graph LR
+
+Research --> Design
+
+Design --> Rust
+
+Rust --> Cargo
+
+Cargo --> Build
+
+Build --> Test
+
+Test --> Optimize
+
+Optimize --> Release
+```
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# 📊 GITHUB ACTIVITY
+
 
 <div align="center">
 
-<img height="180em"
-src="https://streak-stats.demolab.com?user=m4n14ck&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Contact
 
 <div align="center">
 
+```
+cargo build --release
 
-<img src="https://img.shields.io/badge/GitHub-m4n14ck-black?style=for-the-badge&logo=github">
+STATUS: SUCCESS
 
-
-<img src="https://img.shields.io/badge/Rust-Lover-DEA584?style=for-the-badge&logo=rust&logoColor=black">
-
-
-</div>
-
-
----
-
-<div align="center">
-
+```
 
 ### "Safe by design. Fast by default."
 
-
 🦀
-
 
 </div>
