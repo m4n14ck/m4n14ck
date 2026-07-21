@@ -63,16 +63,20 @@ Performance        ████████░░  80%
   
 </div>
 
-# 🛠️ ACTIVE OPERATIONS (Proyectos Destacados)
+# 📡 RECON DATA (Métricas de Proyectos)
 
-| OPERATION CODE | STATUS | DESCRIPTION | REPOSITORY |
-|----------------|--------|-------------|------------|
-| **ADB-001** | 🟢 ACTIVO | **ADB-Exploiter** - Herramienta todo-en-uno para dispositivos Android con ADB (C++) | [🔗 Ver Misión](https://github.com/m4n14ck/ADB-Exploiter) |
-| **DEX-001** | 🟢 ACTIVO | **Dexsploit** - Automatización para APKTool: descompila, recompila y firma APKs (C++) | [🔗 Ver Misión](https://github.com/m4n14ck/Dexsploit) |
-| **WIFI-001** | 🟢 ACTIVO | **wifi-password-viewer** - Visualiza y exporta contraseñas WiFi en Windows (Python/PyQt5) | [🔗 Ver Misión](https://github.com/m4n14ck/wifi-password-viewer) |
-| **RUST-001** | 🟢 ACTIVO | **Rust** - Curso y ejercicios de programación en Rust | [🔗 Ver Misión](https://github.com/m4n14ck/Rust) |
-| **RUBY-001** | 🟢 ACTIVO | **Ruby** - Conceptos básicos de programación en Ruby | [🔗 Ver Misión](https://github.com/m4n14ck/Ruby) |
-| **SCAN-001** | 🟢 ACTIVO | **scanCraft** - Herramienta de escaneo en Crystal | [🔗 Ver Misión](https://github.com/m4n14ck/scanCraft) |
+<div align="center">
+
+| Proyecto | Lenguaje | Stars | Forks | Issues |
+|----------|----------|-------|-------|--------|
+| [**ADB-Exploiter**](https://github.com/m4n14ck/ADB-Exploiter) | <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/ADB-Exploiter?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/ADB-Exploiter?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/ADB-Exploiter) |
+| [**Dexsploit**](https://github.com/m4n14ck/Dexsploit) | <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Dexsploit?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Dexsploit?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Dexsploit) |
+| [**wifi-password-viewer**](https://github.com/m4n14ck/wifi-password-viewer) | <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/wifi-password-viewer?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/wifi-password-viewer?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/wifi-password-viewer) |
+| [**Rust**](https://github.com/m4n14ck/Rust) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
+| [**Ruby**](https://github.com/m4n14ck/Ruby) | <img src="https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Ruby?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Ruby?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Ruby) |
+| [**scanCraft**](https://github.com/m4n14ck/scanCraft) | <img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=crystal&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/scanCraft?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/scanCraft?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/scanCraft) |
+
+</div>
 
 
 
