@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=00000000&text=MALWAREOPS%20UNIT&fontColor=E8D7A5&fontSize=42"/>
 
-# 🎮 m4n14ck
+# 🎮 Perfil oficial de m4n14ck, desarrollador de software enfocado en Rust, ciberseguridad y herramientas de automatización
 
 ### 「 RUSTOPS SYSTEMS DIVISION 」
 
