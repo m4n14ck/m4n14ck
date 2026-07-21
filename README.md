@@ -56,26 +56,6 @@ CORE SKILLS :
  └── Open Source              [██████████] 100%
 ```
 
----
-
-# `> 02 // DESIGN PHILOSOPHY`
-
-```text
-╭────────────────────────────────────────╮
-│                                        │
-│  >> ZERO-COST ABSTRACTIONS             │
-│  >> OWNERSHIP WITHOUT GC               │
-│  >> FEARLESS CONCURRENCY               │
-│  >> UNSAFE BLOCKS: AUTHORIZED          │
-│                                        │
-╰────────────────────────────────────────╯
-
-[LOG] Building reliable software closer to the metal.
-[LOG] No segfaults. No data races. No compromises.
-```
-
----
-
 # `03 // ACTIVE OPERATIONS`
 
 ```text
@@ -114,82 +94,6 @@ CORE SKILLS :
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-# `05 // RUST CORE`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black">
-
-<img src="https://img.shields.io/badge/Cargo-CE422B?style=for-the-badge&logo=rust&logoColor=white">
-
-<img src="https://img.shields.io/badge/Tokio-050505?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Axum-050505?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Clippy-CE422B?style=for-the-badge">
-
-</div>
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `06 // SECURITY MODULE`
-
-```text
-╔══════════════════════════════╗
-║       SECURITY RESEARCH      ║
-╚══════════════════════════════╝
-
-
-[+] Reverse Engineering
-
-[+] Binary Analysis
-
-[+] Network Security
-
-[+] Secure Software Design
-
-[+] Windows Internals
-
-[+] Linux Internals
-
-[+] Defensive Engineering
-```
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `07 // PROJECT ARCHITECTURE`
-
-```text
-~/projects
-
-
-├── rust-tools
-│   └── System utilities
-
-
-├── network-engine
-│   └── Protocol experiments
-
-
-├── cli-framework
-│   └── Terminal applications
-
-
-├── security-labs
-│   └── Research environment
-
-
-└── open-source
-    └── Public contributions
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # `> 08 // BUILD PIPELINE`
 
