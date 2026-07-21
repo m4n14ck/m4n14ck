@@ -53,7 +53,7 @@ Performance        ████████░░  80%
 </div>
 
 ---
-📡 RECON DATA (Métricas de Proyectos)
+📡 FULL RUST PROYECTS (Only Rust)
 
 <div align="center">
   
