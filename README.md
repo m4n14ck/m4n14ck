@@ -54,11 +54,16 @@ Performance        ████████░░  80%
 
 ---
 📡 RECON DATA (Métricas de Proyectos)
+
 <div align="center">
-Proyecto	Lenguaje	Stars	Forks	Issues
-scanCraft	<img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=crystal&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/scanCraft?style=social	https://img.shields.io/github/forks/m4n14ck/scanCraft?style=social	https://img.shields.io/github/issues/m4n14ck/scanCraft
+  
+  | Proyecto | Lenguaje | Stars | Forks | Issues |
+|----------|----------|-------|-------|--------|
+| [**scanCraft**](https://github.com/m4n14ck/scanCraft) | <img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=crystal&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/scanCraft?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/scanCraft?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/scanCraft) |
+| [**Rust**](https://github.com/m4n14ck/Rust) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
+  
 </div>
-https://github.com/m4n14ck/Rust
+
 
 
 # ⭐ PLAYER STATS
