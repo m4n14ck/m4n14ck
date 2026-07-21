@@ -53,7 +53,12 @@ Performance        ████████░░  80%
 </div>
 
 ---
-
+📡 RECON DATA (Métricas de Proyectos)
+<div align="center">
+Proyecto	Lenguaje	Stars	Forks	Issues
+scanCraft	<img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=crystal&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/scanCraft?style=social	https://img.shields.io/github/forks/m4n14ck/scanCraft?style=social	https://img.shields.io/github/issues/m4n14ck/scanCraft
+</div>
+https://github.com/m4n14ck/Rust
 
 
 # ⭐ PLAYER STATS
