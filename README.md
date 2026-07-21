@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=050505&text=ROOT%40m4n14ck&fontColor=39FF14&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=050505&text=LOW%20LEVEL%20SYSTEMS&fontColor=DEA584&fontSize=40"/>
 
 <br>
 
