@@ -226,30 +226,8 @@ graph LR
 
 <div align="center">
 
-```
-root@m4n14ck:~# cargo build --release
-   Compiling m4n14ck v1.0.0
-    Finished `release` profile [optimized] target(s) in 0.42s
-
-BUILD STATUS: [████████████████████] SUCCESS
-
-[OK] 0 warnings
-[OK] 0 errors
-[OK] 0 unsafe blocks (or properly audited)
-
-SYSTEM READY 🦀
-```
-
 <br>
 
 ### `Safe by design. Fast by default. Fearless by choice.`
-
-<br>
-
-```
-[root@m4n14ck ~]# exit
-logout
-Connection to github.com closed.
-```
 
 </div>
