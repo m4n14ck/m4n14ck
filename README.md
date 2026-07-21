@@ -56,29 +56,6 @@ CORE SKILLS :
  └── Open Source              [██████████] 100%
 ```
 
-# `03 // ACTIVE OPERATIONS`
-
-```text
-╔══════════════════════════════════╗
-║        DEVELOPMENT CORE          ║
-╚══════════════════════════════════╝
-
-[ONLINE] Rust Ecosystem
-
-[ONLINE] Systems Programming
-
-[ONLINE] Network Engineering
-
-[ONLINE] Linux Internals
-
-[ONLINE] Windows API
-
-[ONLINE] CLI Applications
-
-[ONLINE] Performance Engineering
-
-```
-
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
