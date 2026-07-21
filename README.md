@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=CE422B&text=RUST%20SYSTEMS&fontColor=F8E8D0&fontSize=42"/>
+<i<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=B7410E&text=Systems%20Programming%20%E2%80%A2%20Rust&fontColor=FFFFFF&fontSize=38&fontAlignY=50"/>
 
 <br>
 
