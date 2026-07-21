@@ -6,7 +6,7 @@
 
 ### 「 RUSTOPS SYSTEMS DIVISION 」
 
-> **Rust Developer • Systems Engineer • Security Research**
+ **Rust Developer • Systems Engineer • Security Research**
 
 <br>
 
