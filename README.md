@@ -29,7 +29,7 @@
 
 ---
 
-# `> 01 // IDENTITY`
+# `// IDENTITY`
 
 ```bash
 ┌──(root@m4n14ck)-[/dev/rust]
@@ -60,7 +60,7 @@ CORE SKILLS :
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# `04 // TECHNOLOGY MATRIX`
+# `// TECHNOLOGY MATRIX`
 
 <div align="center">
 
@@ -72,30 +72,9 @@ CORE SKILLS :
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# `> 08 // BUILD PIPELINE`
-
-```mermaid
-graph LR
-
-    A[Research] -->|analyze| B[Architecture]
-    B -->|design| C[Rust]
-    C -->|cargo build| D[Compile]
-    D -->|clippy| E[Testing]
-    E -->|cargo test| F[Benchmark]
-    F -->|criterion| G[Release]
-
-    style A fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
-    style B fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
-    style C fill:#0d1117,stroke:#DEA584,stroke-width:2px,color:#DEA584
-    style D fill:#0d1117,stroke:#DEA584,stroke-width:2px,color:#DEA584
-    style E fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
-    style F fill:#0d1117,stroke:#00FF41,stroke-width:2px,color:#00FF41
-    style G fill:#0d1117,stroke:#00FF41,stroke-width:3px,color:#00FF41
-```
-
 ---
 
-# `> 09 // SYSTEM METRICS`
+# `// SYSTEM METRICS`
 
 <div align="center">
 
