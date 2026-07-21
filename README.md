@@ -63,6 +63,17 @@ Performance        ████████░░  80%
   
 </div>
 
+# 🛠️ ACTIVE OPERATIONS (Proyectos Destacados)
+
+| OPERATION CODE | STATUS | DESCRIPTION | REPOSITORY |
+|----------------|--------|-------------|------------|
+| **ADB-001** | 🟢 ACTIVO | **ADB-Exploiter** - Herramienta todo-en-uno para dispositivos Android con ADB (C++) | [🔗 Ver Misión](https://github.com/m4n14ck/ADB-Exploiter) |
+| **DEX-001** | 🟢 ACTIVO | **Dexsploit** - Automatización para APKTool: descompila, recompila y firma APKs (C++) | [🔗 Ver Misión](https://github.com/m4n14ck/Dexsploit) |
+| **WIFI-001** | 🟢 ACTIVO | **wifi-password-viewer** - Visualiza y exporta contraseñas WiFi en Windows (Python/PyQt5) | [🔗 Ver Misión](https://github.com/m4n14ck/wifi-password-viewer) |
+| **RUST-001** | 🟢 ACTIVO | **Rust** - Curso y ejercicios de programación en Rust | [🔗 Ver Misión](https://github.com/m4n14ck/Rust) |
+| **RUBY-001** | 🟢 ACTIVO | **Ruby** - Conceptos básicos de programación en Ruby | [🔗 Ver Misión](https://github.com/m4n14ck/Ruby) |
+| **SCAN-001** | 🟢 ACTIVO | **scanCraft** - Herramienta de escaneo en Crystal | [🔗 Ver Misión](https://github.com/m4n14ck/scanCraft) |
+
 
 
 # ⭐ PLAYER STATS
