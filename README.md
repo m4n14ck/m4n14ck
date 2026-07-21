@@ -4,7 +4,7 @@
 
 # 🎮 m4n14ck
 
-### 「 LOS SANTOS SYSTEMS DIVISION 」
+### 「 RUSTOPS SYSTEMS DIVISION 」
 
 > **Rust Developer • Systems Engineer • Security Research**
 
@@ -61,27 +61,6 @@ Performance        ████████░░  80%
 <img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=merko&hide_border=true&background=000000&stroke=E8D7A5&ring=E8D7A5&fire=C68A2F&currStreakNum=E8D7A5&sideNums=E8D7A5&currStreakLabel=E8D7A5&sideLabels=E8D7A5&dates=777777"/>
 
 </div>
-
----
-
-<div align="center">
-
-# 🏆 MISSION OBJECTIVES
-
-```text
-✓ Build high-performance software
-✓ Learn low-level programming
-✓ Master Rust
-✓ Reverse Engineering
-✓ Security Research
-✓ Open Source
-```
-
-</div>
-
----
-
-<div align="center">
 
 # ⭐ MISSION PASSED
 
