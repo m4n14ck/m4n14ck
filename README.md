@@ -76,99 +76,120 @@ CORE SKILLS :
 
 ---
 
-# `> 03 // ACTIVE OPERATIONS`
+# `03 // ACTIVE OPERATIONS`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║           DEVELOPMENT CORE — DAEMON STATUS           ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════╗
+║        DEVELOPMENT CORE          ║
+╚══════════════════════════════════╝
 
-[RUNNING]  rust-ecosystem.service        ● active
-[RUNNING]  systems-programming.service   ● active
-[RUNNING]  network-engineering.service   ● active
-[RUNNING]  linux-internals.service       ● active
-[RUNNING]  windows-api.service           ● active
-[RUNNING]  cli-applications.service      ● active
-[RUNNING]  performance-eng.service       ● active
+[ONLINE] Rust Ecosystem
 
-SYSTEM LOAD: [████████████████████░░░░░░] 80%
-MEMORY USAGE: [████████████░░░░░░░░░░░░] 48%
-CPU: [████████████████████████░░] 85°C
+[ONLINE] Systems Programming
+
+[ONLINE] Network Engineering
+
+[ONLINE] Linux Internals
+
+[ONLINE] Windows API
+
+[ONLINE] CLI Applications
+
+[ONLINE] Performance Engineering
+
 ```
 
----
 
-# `> 04 // TECHNOLOGY MATRIX`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# `04 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,git,linux,debian,ubuntu,windows,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,git,linux,debian,ubuntu,windows,vscode"/>
 
 </div>
 
----
 
-# `> 05 // RUST CORE — DEPENDENCIES`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# `05 // RUST CORE`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black">
 
-<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=DEA584&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Cargo-CE422B?style=for-the-badge&logo=rust&logoColor=white">
 
-<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=00FF41&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Tokio-050505?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=serde&logoColor=DEA584&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Serde-DEA584?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=axum&logoColor=00FF41&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Axum-050505?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Clippy-000000?style=for-the-badge&logo=rust&logoColor=CE422B&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Clippy-CE422B?style=for-the-badge">
 
 </div>
 
----
 
-# `> 06 // SECURITY MODULE — PENTEST SUITE`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# `06 // SECURITY MODULE`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║              SECURITY RESEARCH TOOLKIT               ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════╗
+║       SECURITY RESEARCH      ║
+╚══════════════════════════════╝
 
-[✓] Reverse Engineering        [✓] Binary Analysis
-[✓] Network Security           [✓] Secure Software Design
-[✓] Windows Internals          [✓] Linux Internals
-[✓] Defensive Engineering      [✓] Fuzzing & Exploitation
 
-[WARNING] No vulnerabilities found in Rust code.
-[INFO]    Memory safety: ENFORCED at compile time.
+[+] Reverse Engineering
+
+[+] Binary Analysis
+
+[+] Network Security
+
+[+] Secure Software Design
+
+[+] Windows Internals
+
+[+] Linux Internals
+
+[+] Defensive Engineering
 ```
 
----
 
-# `> 07 // PROJECT ARCHITECTURE`
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+# `07 // PROJECT ARCHITECTURE`
 
 ```text
-root@m4n14ck:~/projects# tree -L 2
-
 ~/projects
-├── rust-tools/
-│   └── [System utilities — CLI tooling]
-│
-├── network-engine/
-│   └── [Protocol experiments — Packet crafting]
-│
-├── cli-framework/
-│   └── [Terminal applications — TUI frameworks]
-│
-├── security-labs/
-│   └── [Research environment — CTF / RE]
-│
-└── open-source/
-    └── [Public contributions — CVE patches]
-```
 
----
+
+├── rust-tools
+│   └── System utilities
+
+
+├── network-engine
+│   └── Protocol experiments
+
+
+├── cli-framework
+│   └── Terminal applications
+
+
+├── security-labs
+│   └── Research environment
+
+
+└── open-source
+    └── Public contributions
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # `> 08 // BUILD PIPELINE`
 
