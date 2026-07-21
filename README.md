@@ -2,22 +2,10 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,100:00ff41&text=%E2%9A%A1%20m4n14ck%20%7C%20ROOT%20ACCESS%20GRANTED&fontColor=00ff41&fontSize=36&animation=twinkling&stroke=00ff41&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=050505&text=%E2%9A%94%20m4n14ck%20%7C%20RUST%20SYSTEMS%20FORGE&fontColor=DEA584&fontSize=38&animation=fadeIn"/>
 
 <br>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  [INIT] SYSTEM BREACH DETECTED                           ║
-║  [AUTH] ROOT PRIVILEGES: GRANTED                        ║
-╠═══════════════════════════════════════════════════════════╣
-║  >> USER    : m4n14ck                                   ║
-║  >> CORE    : Rust [memory_safe::enabled]               ║
-║  >> DOMAIN  : Systems Engineering / Offensive Dev       ║
-║  >> STATUS  : ████████░░ ONLINE                         ║
-║  >> UPTIME  : 00:00:00:00:00:00                         ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 <br>
 
