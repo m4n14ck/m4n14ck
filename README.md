@@ -1,56 +1,50 @@
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=00000000&text=MALWAREOPS%20UNIT&fontColor=E8D7A5&fontSize=42"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=00000000&text=RUST%20SYSTEMS&fontColor=CE422B&fontSize=42"/>
+# 🎮 m4n14ck
 
+### 「 LOS SANTOS SYSTEMS DIVISION 」
 
-<br>
-
-# 🦀 m4n14ck
-
-### `root@systems:~#` • `Systems Engineer` • `Rust Developer` • `Security Research`
+> **Rust Developer • Systems Engineer • Security Research**
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=00FF41&center=true&vCenter=true&width=1000&lines=sudo+cargo+build+--release;Compiling+zero-cost+abstractions...;Memory+safety+without+GC;Fearless+concurrency+engaged;Reverse+engineering+active;Root+access+granted;Systems+level+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=24&pause=1800&color=E8D7A5&center=true&vCenter=true&width=1000&lines=Mission+Started...;Building+Rust+Applications...;Memory+Safe+Systems...;Reverse+Engineering...;Zero-Cost+Abstractions...;MISSION+PASSED!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# `// IDENTITY`
+# 🎮 PLAYER PROFILE
 
-```bash
-┌──(root@m4n14ck)-[/dev/rust]
-└─# whoami && cat /etc/passwd | grep m4n14ck
+```text
+╔══════════════════════════════════════╗
+║          PLAYER INFORMATION          ║
+╚══════════════════════════════════════╝
 
+NAME        :: m4n14ck
+FACTION     :: MalwareOps Unit
+CLASS       :: Systems Engineer
+SPECIALTY   :: Rust Development
+STATUS      :: ACTIVE
 
-NAME        : m4n14ck
-ROLE        : Systems Engineer
-PRIMARY     : Rust 🦀
-CLEARANCE   : ROOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ENVIRONMENT :
- ├── Linux    [██████░░░░] 60%
- ├── Windows  [████░░░░░░] 40%
- └── Embedded [██░░░░░░░░] 20%
+ATTRIBUTES
 
-CORE SKILLS :
- ├── Low Level Programming    [██████████] 100%
- ├── Memory Safety            [██████████] 100%
- ├── Networking               [████████░░]  80%
- ├── CLI/TUI Engineering      [████████░░]  80%
- ├── Reverse Engineering      [███████░░░]  70%
- ├── Performance Optimization [████████░░]  80%
- └── Open Source              [██████████] 100%
+Programming        ██████████ 100%
+Memory Safety      ██████████ 100%
+Networking         ████████░░  80%
+Reverse Eng.       ███████░░░  70%
+Linux              █████████░  90%
+Performance        ████████░░  80%
+
 ```
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-# `// TECHNOLOGY MATRIX`
+# 🏙️ EQUIPMENT
 
 <div align="center">
 
@@ -58,17 +52,13 @@ CORE SKILLS :
 
 </div>
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
 ---
 
-# `// SYSTEM METRICS`
+# ⭐ PLAYER STATS
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=merko&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=CE422B&currStreakNum=00FF41&sideNums=DEA584&currStreakLabel=00FF41&sideLabels=DEA584&dates=555555"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=merko&hide_border=true&background=000000&stroke=E8D7A5&ring=E8D7A5&fire=C68A2F&currStreakNum=E8D7A5&sideNums=E8D7A5&currStreakLabel=E8D7A5&sideLabels=E8D7A5&dates=777777"/>
 
 </div>
 
@@ -76,8 +66,29 @@ CORE SKILLS :
 
 <div align="center">
 
-<br>
+# 🏆 MISSION OBJECTIVES
 
-### `Safe by design. Fast by default. Fearless by choice.`
+```text
+✓ Build high-performance software
+✓ Learn low-level programming
+✓ Master Rust
+✓ Reverse Engineering
+✓ Security Research
+✓ Open Source
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ MISSION PASSED
+
+### RESPECT +
+### RUST SKILL +
+### EXPERIENCE +
+
+> *Safe by design. Fast by default. Fearless by choice.*
 
 </div>
