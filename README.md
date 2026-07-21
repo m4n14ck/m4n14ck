@@ -54,6 +54,17 @@ Performance        ████████░░  80%
 
 ---
 
+📡 RECON DATA (Métricas de Proyectos)
+<div align="center">
+Proyecto	Lenguaje	Stars	Forks	Issues
+RustOS	<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/rustos?style=social	https://img.shields.io/github/forks/m4n14ck/rustos?style=social	https://img.shields.io/github/issues/m4n14ck/rustos
+MalwareLab	<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/malwarelab?style=social	https://img.shields.io/github/forks/m4n14ck/malwarelab?style=social	https://img.shields.io/github/issues/m4n14ck/malwarelab
+NetScanner	<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/netscanner?style=social	https://img.shields.io/github/forks/m4n14ck/netscanner?style=social	https://img.shields.io/github/issues/m4n14ck/netscanner
+FirmwareKit	<img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/firmwarekit?style=social	https://img.shields.io/github/forks/m4n14ck/firmwarekit?style=social	https://img.shields.io/github/issues/m4n14ck/firmwarekit
+SysMon	<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/sysmon?style=social	https://img.shields.io/github/forks/m4n14ck/sysmon?style=social	https://img.shields.io/github/issues/m4n14ck/sysmon
+CryptoLib	<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>	https://img.shields.io/github/stars/m4n14ck/cryptolib?style=social	https://img.shields.io/github/forks/m4n14ck/cryptolib?style=social	https://img.shields.io/github/issues/m4n14ck/cryptolib
+</div>
+
 # ⭐ PLAYER STATS
 
 <div align="center">
