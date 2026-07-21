@@ -63,7 +63,7 @@ Performance        ████████░░  80%
   
 </div>
 
-# 📡 RECON DATA (Métricas de Proyectos)
+# 🛠️ Otros
 
 <div align="center">
 
