@@ -88,9 +88,7 @@ Performance        ████████░░  80%
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&hide_border=true&langs_count=8"/>
+<img src="https://streak-stats.demolab.com?user=m4n14ck&theme=dark&hide_border=true&background=0D1117&ring=DEA584&fire=DEA584&currStreakNum=E8D7A5"/>
 
 </div>
 
