@@ -62,7 +62,7 @@ Performance        ████████░░  80%
 | [**Rust**](https://github.com/m4n14ck/Rust) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
 | [**md5-tool**](https://github.com/m4n14ck/md5-tool) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
 | [**process**](https://github.com/m4n14ck/process) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
-
+| [**rust-file-manager**](https://github.com/m4n14ck/rust-file-manager) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
 
 </div>
 
