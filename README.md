@@ -86,12 +86,6 @@ Performance        ████████░░  80%
 
 # 📊 PLAYER STATS
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=m4n14ck&theme=dark&hide_border=true&background=0D1117&ring=DEA584&fire=DEA584&currStreakNum=E8D7A5"/>
-
-</div>
-
 <br>
 
 <div align="center">
