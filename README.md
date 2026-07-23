@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=00000000&text=MALWAREOPS%20UNIT&fontColor=E8D7A5&fontSize=42"/>
 
-# 🎮 Perfil oficial de m4n14ck, desarrollador de software enfocado en Rust, ciberseguridad y herramientas de automatización
+# 🎮 Perfil oficial de m4n14ck
 
 ### 「 RUSTOPS SYSTEMS DIVISION 」
 
- **Rust Developer • Systems Engineer • Security Research**
+> **Rust Developer • Systems Engineer • Security Research**
 
 <br>
 
@@ -39,7 +39,6 @@ Networking         ████████░░  80%
 Reverse Eng.       ███████░░░  70%
 Linux              █████████░  90%
 Performance        ████████░░  80%
-
 ```
 
 ---
@@ -53,37 +52,83 @@ Performance        ████████░░  80%
 </div>
 
 ---
-📡 FULL RUST PROYECTS (Only Rust)
+
+# 🦀 RUST PROJECTS
 
 <div align="center">
-  
-  | Proyecto | Lenguaje | Stars | Forks | Issues |
-|----------|----------|-------|-------|--------|
-| [**Rust**](https://github.com/m4n14ck/Rust) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
-| [**md5-tool**](https://github.com/m4n14ck/md5-tool) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
-| [**process**](https://github.com/m4n14ck/process) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
-| [**rust-file**](https://github.com/m4n14ck/rust-file-manager) | <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Rust?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Rust?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Rust) |
+
+<a href="https://github.com/m4n14ck/Rust">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Rust&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/md5-tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=md5-tool&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/process">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=process&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/rust-file-manager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=rust-file-manager&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
 
 </div>
 
-# 🛠️ Otros
+---
+
+# 🛠️ OTHER PROJECTS
 
 <div align="center">
 
-| Proyecto | Lenguaje | Stars | Forks | Issues |
-|----------|----------|-------|-------|--------|
-| [**ADB-Exploiter**](https://github.com/m4n14ck/ADB-Exploiter) | <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/ADB-Exploiter?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/ADB-Exploiter?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/ADB-Exploiter) |
-| [**Dexsploit**](https://github.com/m4n14ck/Dexsploit) | <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Dexsploit?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Dexsploit?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Dexsploit) |
-| [**wifi-password-viewer**](https://github.com/m4n14ck/wifi-password-viewer) | <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/wifi-password-viewer?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/wifi-password-viewer?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/wifi-password-viewer) |
-| [**Ruby**](https://github.com/m4n14ck/Ruby) | <img src="https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/Ruby?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/Ruby?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/Ruby) |
-| [**scanCraft**](https://github.com/m4n14ck/scanCraft) | <img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=crystal&logoColor=white"/> | ![Stars](https://img.shields.io/github/stars/m4n14ck/scanCraft?style=social) | ![Forks](https://img.shields.io/github/forks/m4n14ck/scanCraft?style=social) | ![Issues](https://img.shields.io/github/issues/m4n14ck/scanCraft) |
+<a href="https://github.com/m4n14ck/ADB-Exploiter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=ADB-Exploiter&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/Dexsploit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Dexsploit&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/wifi-password-viewer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=wifi-password-viewer&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/Ruby">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Ruby&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
+
+<a href="https://github.com/m4n14ck/scanCraft">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=scanCraft&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</a>
 
 </div>
 
+---
 
-
-# ⭐ PLAYER STATS
+# 📊 PLAYER STATS
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=merko&hide_border=true&background=000000&stroke=E8D7A5&ring=E8D7A5&fire=C68A2F&currStreakNum=E8D7A5&sideNums=E8D7A5&currStreakLabel=E8D7A5&sideLabels=E8D7A5&dates=777777"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=github-dark-blue&hide_border=true&background=00000000&ring=DEA584&fire=DEA584&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+# 📡 CONTACT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-m4n14ck-181717?style=for-the-badge&logo=github)](https://github.com/m4n14ck)
+
+</div>
