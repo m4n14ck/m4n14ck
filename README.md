@@ -102,41 +102,10 @@ Performance        ████████░░  80%
 
 </div>
 
----
-
-# 📂 CURRENT FOCUS
-
-```text
-MISSION OBJECTIVES
-
-✓ Rust Programming
-✓ Systems Development
-✓ Malware Analysis
-✓ Reverse Engineering
-✓ Linux Internals
-✓ Network Programming
-✓ Performance Optimization
-```
-
----
-
-# 📈 DEVELOPMENT ROADMAP
-
-```text
-██████████████████████░░░░░░░░░ 70%
-
-[Rust]              ██████████
-[Systems]           █████████░
-[Networking]        ████████░░
-[Reverse Eng.]      ███████░░░
-[Malware Research]  ██████░░░░
-```
-
----
 
 <div align="center">
 
-> **"Safe by Design. Fast by Default. Fearless by Choice."**
+ **"Safe by Design. Fast by Default. Fearless by Choice."**
 
 🦀 Built with Rust
 
