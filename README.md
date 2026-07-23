@@ -6,7 +6,7 @@
 
 ### 「 RUSTOPS SYSTEMS DIVISION 」
 
-> **Rust Developer • Systems Engineer • Security Research**
+ **Rust Developer • Systems Engineer • Security Research**
 
 <br>
 
@@ -53,25 +53,16 @@ Performance        ████████░░  80%
 
 ---
 
-# 🦀 RUST PROJECTS
+# 📡 RUST PROJECTS
 
 <div align="center">
 
-<a href="https://github.com/m4n14ck/Rust">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Rust&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/md5-tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=md5-tool&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/process">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=process&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/rust-file-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=rust-file-manager&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
+| Project | Language | Status | Category | Description |
+|:---------|:--------:|:------:|:--------:|:------------|
+| **[Rust](https://github.com/m4n14ck/Rust)** | 🦀 Rust | 🟢 Active | Learning | Collection of Rust examples and projects. |
+| **[md5-tool](https://github.com/m4n14ck/md5-tool)** | 🦀 Rust | 🟢 Active | Cryptography | Fast MD5 hash generator written in Rust. |
+| **[process](https://github.com/m4n14ck/process)** | 🦀 Rust | 🟢 Active | System | Process management utilities. |
+| **[rust-file-manager](https://github.com/m4n14ck/rust-file-manager)** | 🦀 Rust | 🟡 WIP | Filesystem | Modern file manager written in Rust. |
 
 </div>
 
@@ -81,25 +72,13 @@ Performance        ████████░░  80%
 
 <div align="center">
 
-<a href="https://github.com/m4n14ck/ADB-Exploiter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=ADB-Exploiter&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/Dexsploit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Dexsploit&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/wifi-password-viewer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=wifi-password-viewer&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/Ruby">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=Ruby&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
-
-<a href="https://github.com/m4n14ck/scanCraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=m4n14ck&repo=scanCraft&theme=github_dark&hide_border=true&bg_color=00000000"/>
-</a>
+| Project | Language | Status | Category | Description |
+|:---------|:--------:|:------:|:--------:|:------------|
+| **[ADB-Exploiter](https://github.com/m4n14ck/ADB-Exploiter)** | ⚙️ C++ | 🟢 Active | Android | ADB exploitation toolkit. |
+| **[Dexsploit](https://github.com/m4n14ck/Dexsploit)** | ⚙️ C++ | 🟢 Active | Reverse | Android reverse engineering utilities. |
+| **[wifi-password-viewer](https://github.com/m4n14ck/wifi-password-viewer)** | 🐍 Python | 🟢 Active | Security | Displays saved Wi-Fi passwords. |
+| **[Ruby](https://github.com/m4n14ck/Ruby)** | 💎 Ruby | 🟢 Active | Learning | Ruby examples and experiments. |
+| **[scanCraft](https://github.com/m4n14ck/scanCraft)** | 🔷 Crystal | 🟡 WIP | Networking | Network scanner written in Crystal. |
 
 </div>
 
@@ -109,26 +88,56 @@ Performance        ████████░░  80%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4n14ck&show_icons=true&theme=transparent&hide_border=true&title_color=DEA584&icon_color=DEA584&text_color=E8D7A5"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n14ck&layout=compact&theme=transparent&hide_border=true&title_color=DEA584&text_color=E8D7A5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=m4n14ck&theme=transparent&hide_border=true&ring=DEA584&fire=DEA584&currStreakNum=E8D7A5&sideNums=E8D7A5&currStreakLabel=DEA584&sideLabels=DEA584&dates=808080"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 📂 CURRENT FOCUS
 
-<img height="180em" src="https://streak-stats.demolab.com?user=m4n14ck&theme=github-dark-blue&hide_border=true&background=00000000&ring=DEA584&fire=DEA584&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+```text
+MISSION OBJECTIVES
 
-</div>
+✓ Rust Programming
+✓ Systems Development
+✓ Malware Analysis
+✓ Reverse Engineering
+✓ Linux Internals
+✓ Network Programming
+✓ Performance Optimization
+```
 
 ---
 
-# 📡 CONTACT
+# 📈 DEVELOPMENT ROADMAP
+
+```text
+██████████████████████░░░░░░░░░ 70%
+
+[Rust]              ██████████
+[Systems]           █████████░
+[Networking]        ████████░░
+[Reverse Eng.]      ███████░░░
+[Malware Research]  ██████░░░░
+```
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-m4n14ck-181717?style=for-the-badge&logo=github)](https://github.com/m4n14ck)
+> **"Safe by Design. Fast by Default. Fearless by Choice."**
+
+🦀 Built with Rust
 
 </div>
