@@ -63,7 +63,7 @@ Performance        ████████░░  80%
 | **[md5-tool](https://github.com/m4n14ck/md5-tool)** | 🦀 Rust | 🟢 Active | Cryptography | Fast MD5 hash generator written in Rust. |
 | **[process](https://github.com/m4n14ck/process)** | 🦀 Rust | 🟢 Active | System | Process management utilities. |
 | **[rust-file-manager](https://github.com/m4n14ck/rust-file-manager)** | 🦀 Rust | 🟡 WIP | Filesystem | Modern file manager written in Rust. |
-
+| **[Introduccion a Rust](https://github.com/m4n14ck/Introduccion_a_rust)** | 🦀 Rust | 🟡 WIP | Curso | Curso práctico de introducción a Rust. |
 </div>
 
 ---
