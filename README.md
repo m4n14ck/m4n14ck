@@ -52,6 +52,15 @@ Performance        ████████░░  80%
 </div>
 
 ---
+## 📡 MALDEV-C PROJECTS
+
+ <div align="center">
+
+| Project | Language | Status | Category | Description |
+|:---------|:--------:|:------:|:--------:|:------------|
+| **[calling_winAPI_from_c](https://github.com/m4n14ck/calling_winAPI_from_c)** | 🇨 C | 🟢 Active | Payload | MessageBox básico usando WinAPI pura. |
+
+---
 
 # 📡 RUST PROJECTS
 
